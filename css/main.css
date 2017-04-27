@@ -30,6 +30,10 @@ header:hover {
 h1 {
   margin-bottom: 5px;
 }
+h2 {
+  font-family: monospace;
+  text-decoration: underline;
+}
 .subtitle {
   margin-top: 282px;
 }
