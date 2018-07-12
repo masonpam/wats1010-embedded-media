@@ -36,6 +36,7 @@ h1 {
   margin-top: 0px;
 }
 #social {
+  list-style-type: none;
   background: #feedcd;
   position: fixed;
   right: 0;
@@ -46,7 +47,6 @@ h1 {
   width: 100px;
   height: 200px;
   opacity: 0.8;
-  list-style-type: none;
 }
 .twitter img {
   height: 30px;
